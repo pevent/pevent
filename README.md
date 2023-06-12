@@ -14,3 +14,6 @@
     <img src="https://komarev.com/ghpvc/?username=pevent&color=blue&style=flat)" />
   </a>
 </p>
+
+<!---| <a href="https://github.com/pevent/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pevent&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pevent's github stats" /></a> | <a href="https://github.com/pevent/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pevent&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |--->
