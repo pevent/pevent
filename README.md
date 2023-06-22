@@ -3,7 +3,7 @@
   Hello!<br>
 </h1>
   I've been programming for about 8 years and I've made webapps and apps thoughout those years.
-  Recently I started being more curious about Data Science and Artificial Intelligence.<br>
+  Recently I started being more curious about Data Science and Artificial Intelligence, but I still love OOP Languages and I would to somehow connect these both worlds.<br>
 
 # Skills
 
