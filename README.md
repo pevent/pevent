@@ -2,7 +2,9 @@
 <h1 align="center">
   Hello!<br>
 </h1>
-  I've been programming for about 8 years, building webapps and desktop apps along the way. Recently, I've developed a strong curiosity for Machine Learning and Artificial Intelligence. For the past 3 years, I've been working with Salesforce, utilizing Copado for deployments and migrations.<br>
+ Computer Engineer with 8 years of programming experience across web and mobile development.
+For the past 3 years, I've worked professionally as a Salesforce Developer, building with Apex, JavaScript, HTML, CSS, and SQL, designing dashboards in Analytics Studio, and managing releases via Copado in a SAFe Agile environment.
+Curious about expanding my knowledge in Machine Learning and Artificial Intelligence."<br>
 
 # Skills
 
