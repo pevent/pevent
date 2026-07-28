@@ -2,8 +2,7 @@
 <h1 align="center">
   Hello!<br>
 </h1>
-  I've been programming for about 8 years and I've made webapps and apps thoughout those years.
-  Recently I started being more curious about Machine Learning and Artificial Intelligence. Currently working with Salesforce!<br>
+  I've been programming for about 8 years, building webapps and desktop apps along the way. Recently, I've developed a strong curiosity for Machine Learning and Artificial Intelligence. For the past 3 years, I've been working with Salesforce, utilizing Copado for deployments and migrations.<br>
 
 # Skills
 
