@@ -7,6 +7,7 @@
 
 # Skills
 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
 [![My Skills](https://skillicons.dev/icons?i=c,cs,css,docker,html,java,js,mysql,php,py)](https://skillicons.dev)
 
 <p align="center">
