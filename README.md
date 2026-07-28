@@ -7,8 +7,18 @@
 
 # Skills
 
-![salesforce](https://www.readmecodegen.com/api/social-icon?name=salesforce&size=46&link=)
-[![My Skills](https://skillicons.dev/icons?i=c,cs,css,docker,html,java,js,mysql,php,py)](https://skillicons.dev)
+![salesforce](https://www.readmecodegen.com/api/social-icon?name=salesforce&size=96)
+![c](https://www.readmecodegen.com/api/social-icon?name=c&size=96)
+![cplusplus](https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=96)
+![css](https://www.readmecodegen.com/api/social-icon?name=css&size=96)
+![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=96)
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)
+![java](https://www.readmecodegen.com/api/social-icon?name=java&size=96)
+![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
+![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=96)
+![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96)
+![php](https://www.readmecodegen.com/api/social-icon?name=php&size=96)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=96)
 
 <p align="center">
   <a href="https://github.com/pevent">
